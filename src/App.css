@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: auto;
+  text-align: center;
+  list-style: none;
+}
+
+
+/*button*/ 
+.mainList {
+  border: 1px rgb(137, 97, 200) solid;
+  width: 60vw;
+}
+
+.listborder {
+  border: 1px rgb(0, 255, 119) solid;
+  display: flex;
+  justify-content: space-between;
+}
+
+.edit-input {
+  width: 100%; 
+}
